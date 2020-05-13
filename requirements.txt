@@ -1,0 +1,2 @@
+mysql-connector-python==8.0.19
+texttable==1.6.2
